@@ -1,0 +1,98 @@
+#html, body {
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  background-color: #dbf5dd
+}
+
+#ejecuta{
+  color: #291919;
+  background-color: #11c0ac;
+}
+
+.boton{
+  font-weight:bold;
+  text-align: center;
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: #035a02;
+}
+.boton:hover{font-size: 20px;}
+
+.pregunta{
+  text-align: center;
+  color: #813e32;
+  font-family: 'Cooper Black'
+  }
+
+.rpta{
+  position: relative;
+  align-items: center;
+  margin: auto;
+  font-family:'Cooper Black';
+  width: 250px;
+  height: 20px, auto;
+  font-size: 15px;
+  color: #b96550;
+  
+}
+
+.rpta:hover{font-size: 20px;}
+
+.img{
+  text-align: center;
+}
+
+#salida{
+  text-align: center;
+  font-size: 15px;
+  color: #11c0ac; 
+  
+}
+.titulo{
+  text-align: center;
+  color: #3421c4;
+  font-family: 'Cooper Black'
+}
+  
+
+  #inicio{
+  text-align: center;
+  color: #0a598a;
+  font-family: 'Cooper Black';
+  font-size: 15px;
+}
+
+ #salida{
+  text-align: center;
+  color: #1fa1b2;
+  font-family: 'Cooper Black';
+  font-size: 30px;
+}
+#botonFinal{
+  font-weight:bold;
+  text-align: center;
+  border-radius: 20px;
+  color: #f5f5f5;
+  background-color: #b86b00;
+  padding: 15px 20px;
+  font-family: 'Cooper Black';
+  font-size: 15px;
+  
+}
+#botonFinal:hover{font-size: 20px;}
+
+#botonInicial{
+  font-weight:bold;
+  text-align: center;
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: #b86b00;
+  
+}
+#botonInicial:hover{font-size: 15px;}
+
+
+
+
+
